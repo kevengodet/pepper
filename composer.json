@@ -1,10 +1,10 @@
 {
-    "name": "leek/leek",
+    "name": "pepper/pepper",
     "description": "PSR-15 microframework",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Leek\\": "src"
+            "Pepper\\": "src"
         }
     }
 }
